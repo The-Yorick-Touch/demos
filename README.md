@@ -17,7 +17,7 @@
   - [Portfolio Site](#portfolio-site)
 
 
-I would have liked to provide further recent examples to demonstrate my experience with WordPress. I have done extensive work on custom plugins, themes, and blocks, including WooCommerce and eCommerce flow.
+I would have liked to provide further code examples to demonstrate my experience with WordPress. I have done extensive work on custom plugins, themes, and blocks, including WooCommerce and eCommerce flow.
 Unfortunately, the work is proprietary and I do not have permission to share it.
 
 ## Proprietary examples with descriptions:
