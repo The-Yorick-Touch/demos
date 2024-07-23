@@ -1,6 +1,6 @@
-# Yorick Brown - Projects Overview
+# Yorick Brown - Demos
 
-- [Yorick Brown - Projects Overview](#yorick-brown---projects-overview)
+- [Yorick Brown - Demos](#yorick-brown---demos)
   - [Proprietary examples with descriptions:](#proprietary-examples-with-descriptions)
     - [Bulk Order plugin](#bulk-order-plugin)
     - [Qala VAT Switcher](#qala-vat-switcher)
@@ -17,8 +17,7 @@
   - [Portfolio Site](#portfolio-site)
 
 
-I would have liked to provide further code examples to demonstrate my experience with WordPress. I have done extensive work on custom plugins, themes, and blocks, including WooCommerce and eCommerce flow.
-Unfortunately, the work is proprietary and I do not have permission to share it.
+I would have liked to provide further code examples to demonstrate my experience. I have done extensive work on custom plugins, themes, and blocks, including WooCommerce and eCommerce flow. Unfortunately, the work is proprietary and I do not have permission to share it.
 
 ## Proprietary examples with descriptions:
 
@@ -45,8 +44,8 @@ Unfortunately, the work is proprietary and I do not have permission to share it.
 
 
 ### Qala Enhanced WooCommerce Downloads
-* OO PHP, vanilla JS, Handlebars, ElasticSearch, SASS.
-* The client required a library of downloadable products which could be viewed, shared, or downloaded on the product page as well as on the archive or catalogue pages.
+* OO PHP, vanilla JS, Handlebars, ElasticSearch, SASS, WP-API.
+* The client required a library of downloadable products which could be viewed, shared or downloaded on the product page as well as on the archive and catalogue pages.
 * Adding fields and options to products for downloadable files and methods to add components to view, share or download the files on the product page.
 * Integrated these components with catalogue and search pages using ElasticFilters.
 * Client site can be seen here:
@@ -57,8 +56,8 @@ Unfortunately, the work is proprietary and I do not have permission to share it.
 ## Examples available on Github:
 
 ### React News Application
-I have built a React news application demonstrate the following capabilities:
-* Building components in React using the following hooks - useState, useEffect and useRef
+I have built a React news application to demonstrate the following capabilities:
+* Building components in React using the following hooks - useState, useEffect and useRef.
 * Fetching an external API (NB The free version is limited to 100 calls. Generating local files as a fallback would be a next step).
 * HTML follows semantic markup to provide information for accessibility and screen readers.
 * Accessibility checked with Axe Devtools - no issues reported.
@@ -121,4 +120,4 @@ Note - some of the code repos are private and you will need to request access to
 
 ## Portfolio Site
 * AngularJS, CSS, API integrations.
-* I created [https://theyoricktouch.com](https://theyoricktouch.com/) over 10 years ago. It's a Single Page Application built using AngularJS. I have every intention to rebuild it using more modern libraries and improvements for accessibility and optimisation. However, it does show a good regard for original design, as well as API integrations with a timeline library, Google Maps, and WordPress which provides content for the news section.
+* I created [https://theyoricktouch.com](https://theyoricktouch.com/) over 10 years ago. It's a Single Page Application built using AngularJS. I have every intention to rebuild it using more modern libraries and improvements for accessibility and optimisation. However, it does currently show a good regard for original design, as well as API integrations with a timeline library, Google Maps, and WordPress which provides content for the news section.
